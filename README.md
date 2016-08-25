@@ -1,3 +1,3 @@
-# CEST-MRI
-kufuduyfdujtd
-this is a test
+# without_inputs
+
+Simple MATLAB scripts/functions without inputs
